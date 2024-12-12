@@ -1,0 +1,25 @@
+{
+  "name": "real-state-bd-server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "eslint-config-next": "^14.2.4",
+    "express": "^4.19.2",
+    "jsonwebtoken": "^9.0.2",
+    "mongod": "^2.0.0",
+    "mongodb": "^6.7.0",
+    "next": "^14.2.4",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "stripe": "^16.2.0"
+  }
+}
